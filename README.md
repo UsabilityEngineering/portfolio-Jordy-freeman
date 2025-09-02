@@ -1,6 +1,6 @@
-# Jordy's UX Portfolio
+<img width="2316" height="3088" alt="image" src="https://github.com/user-attachments/assets/2a1866f4-63dd-4841-8d54-14f5779c5822" /># Jordy's UX Portfolio
 
-!([IMG_0112.jpeg])
+![IMG_0112.jpeg]
 
 I'm Jordy, I am a Computer Informations Systems major and this class will help me understand user feedback to better my programms.
 
