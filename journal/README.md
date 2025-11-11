@@ -1,6 +1,5 @@
-# Journal Title
+# Decoding the Thermostat
 
-Decoding the Thermostat
 By: Jordan Freeman
 
 
